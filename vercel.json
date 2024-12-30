@@ -30,7 +30,7 @@
         "DB_PORT":"3306",
         "DB_DATABASE":"perpustakaanrpl_towerglobe",
         "DB_USERNAME":"perpustakaanrpl_towerglobe",
-        "DB_PASSWORD":"6f8d5fdee178e06a6ab787e0701738cfb296f31c"
+       
 
     }
 }
