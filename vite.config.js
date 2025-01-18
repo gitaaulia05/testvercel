@@ -8,9 +8,5 @@ export default defineConfig({
             refresh: true,
         }),
     ],
-    base: '',
-    server: {
-        https: true,
-        host: '0.0.0.0',
-    },
+    base: 'https://testvercel-production-c3cb.up.railway.app/build/',
 });
