@@ -67,6 +67,8 @@ return [
 
     'timezone' => env('APP_TIMEZONE', 'UTC'),
 
+    'asset_url' => env('ASSET_URL', 'https://testvercel-production-c3cb.up.railway.app/'),
+
     /*
     |--------------------------------------------------------------------------
     | Application Locale Configuration
