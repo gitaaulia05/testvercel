@@ -23,5 +23,11 @@
     </head>
     <body class="font-sans antialiased dark:bg-black dark:text-white/50">
       <h1>hellow dearr</h1>
+
+          @if (file_exists(public_path('build/manifest.json')) || file_exists(public_path('hot')))
+          <h1>ada yee</h1>
+          @else
+          <h1>ngak ngak</h1>
+          @endif
     </body>
 </html>
