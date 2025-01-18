@@ -8,5 +8,5 @@ export default defineConfig({
             refresh: true,
         }),
     ],
-    base: 'https://testvercel-production-c3cb.up.railway.app/build/',
+    base: '/build/',
 });
